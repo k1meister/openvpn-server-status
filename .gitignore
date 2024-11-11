@@ -4,3 +4,5 @@ logs/
 coverage/
 .DS_Store
 *.log
+.pnpm-store/
+.pnpm-debug.log
