@@ -2,12 +2,8 @@
 
 [![CI](https://github.com/k1meister/openvpn-server-status/actions/workflows/ci.yml/badge.svg)](https://github.com/k1meister/openvpn-server-status/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/k1meister/openvpn-server-status/actions/workflows/codeql.yml/badge.svg)](https://github.com/k1meister/openvpn-server-status/actions/workflows/codeql.yml)
-![Node Version](https://img.shields.io/node/v/your-package-name)
-[![License](https://img.shields.io/github/license/k1meister/openvpn-server-status)](https://github.com/k1meister/openvpn-server-status/blob/main/LICENSE)
-[![Dependencies](https://img.shields.io/librariesio/github/k1meister/openvpn-server-status)](https://libraries.io/github/k1meister/openvpn-server-status)
 [![Last Commit](https://img.shields.io/github/last-commit/k1meister/openvpn-server-status)](https://github.com/k1meister/openvpn-server-status/commits/main)
 [![Issues](https://img.shields.io/github/issues/k1meister/openvpn-server-status)](https://github.com/k1meister/openvpn-server-status/issues)
-[![Security Headers](https://img.shields.io/security-headers?url=your-api-url)](https://securityheaders.com/?q=your-api-url)
 
 Overview
 --------
