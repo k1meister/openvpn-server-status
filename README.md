@@ -1,5 +1,4 @@
 # OpenVPN Server Management API
-=============================
 
 [![CI](https://github.com/k1meister/openvpn-server-status/actions/workflows/ci.yml/badge.svg)](https://github.com/k1meister/openvpn-server-status/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/k1meister/openvpn-server-status/actions/workflows/codeql.yml/badge.svg)](https://github.com/k1meister/openvpn-server-status/actions/workflows/codeql.yml)
